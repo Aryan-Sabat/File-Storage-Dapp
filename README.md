@@ -12,6 +12,7 @@ systems in addressing contemporary challenges of data security and sovereignty.
 
 
 **Introduction**
+
 In today's digital age, where data has become the lifeblood of modern society, the centralized nature of traditional 
 file storage systems presents significant vulnerabilities and limitations. Centralized servers, owned and controlled 
 by single entities, are susceptible to a myriad of risks, including cyberattacks, data breaches, and unauthorized 
@@ -45,6 +46,7 @@ in the digital age.
 
 
 **Related Works**
+
 Previous research and projects in decentralized file storage systems, blockchain-based applications, and 
 integration of IPFS with Ethereum provide valuable insights into the design choices, challenges, and potential 
 improvements for the current project. Hao et al. [1] investigated a storage scheme integrating blockchain and IPFS 
@@ -73,6 +75,7 @@ storage, potentially impacting efficiency.
 
 
 **Key Technologies Used:**
+
 1. React, CSS, and JavaScript:
 These technologies were employed for frontend development, enabling the creation of an intuitive and 
 responsive user interface. React provides a robust framework for building modular and interactive 
@@ -121,6 +124,7 @@ capabilities of IPFS and Ethereum blockchain.
 
 
 **Methodology**
+
 By following this methodology, a decentralized file storage application was successfully developed, combining 
 the capabilities of IPFS for decentralized storage and Ethereum smart contracts for secure and transparent 
 transaction execution. The integration of React provided a user-friendly interface, enhancing the overall usability 
@@ -175,6 +179,7 @@ file storage application.
 
 
 **Conclusion**
+
 The development of a decentralized file storage application utilizing IPFS and Ethereum blockchain technology 
 represents a significant advancement in decentralized computing. Through the integration of key technologies 
 such as React, CSS, JavaScript, IPFS, Ganache, Truffle, Ethereum, Solidity, smart contracts, and Node.js, we have 
@@ -195,19 +200,3 @@ In conclusion, the developed decentralized file storage application demonstrates
 IPFS integration in addressing the challenges of centralized file storage systems. Moving forward, further 
 enhancements and optimizations can be explored to enhance scalability, interoperability, and usability, paving the 
 way for a more decentralized and resilient internet infrastructure.
-7. References
-[1] Hao, J.; Sun, Y.; Luo, H. A Safe and Efficient Storage Scheme Based on BlockChain and IPFS for 
-Agricultural Products Tracking.J. Comput. 2018, 29, 158–167.
-[2] Rajalakshmi, A.; Lakshmy, K.V.; Sindhu, M.; Amritha, P. A blockchain and IPFS based framework 
-for secure Research record keeping. Int. J. Pure Appl. Math. 2018, 119, 1437–1442.
-[3] Vimal, S.; Srivatsa, S.K. A new cluster P2P file sharing system based on IPFS and blockchain 
-technology. J. Ambient. Intell Hum. Comput. 2019, 1–8. 
-[4] Chen, Y.; Li, H.; Li, K.; Zhang, J. An improved P2P file system scheme based on IPFS and 
-Blockchain. In Proceedings of the 2017 IEEE International Conference on Big Data (Big Data), 
-Boston, MA, USA, 11–14 December 2017; pp. 2652–2657. 
-[5] Wang, R.; Tsai, W.-T.; He, J.; Liu, C.; Li, Q.; Deng, E. A Video Surveillance System Based on 
-Permissioned Blockchains and Edge Computing. In Proceedings of the 2019 IEEE International 
-Conference on Big Data and Smart Computing (BigComp), Kyoto, Japan, 27 February–2 March 2019; 
-pp. 1–6. 
-[6] Sun, J.; Yao, X.; Wang, S.; Wu, Y. Blockchain-Based Secure Storage and Access Scheme For 
-Electronic Medical Records in IPFS. IEEE Access 2020, 8, 59389–59401. 
